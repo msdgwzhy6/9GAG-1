@@ -1,27 +1,6 @@
 9GAG-Android (unofficial)
 =====================
 
-## Android学习之路
-
-Recommend Blog--[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
-
-This a powerful REST Client of 9GAG unofficial which uses Android Studio + Gradle, and follows Android Design.
-
-## Run Environment
-
-Min SDK verison 4.0+
-
-Android Studio version 1.0 final
-
-Gradle version 2.2.1
-
-## Preview
-
-![9GAG](http://ww4.sinaimg.cn/mw1024/af63c0e3gw1eg8ahf4b1yj21kw0szqc8.jpg)
-
-[Download Demo](https://github.com/stormzhang/9GAG/releases/download/v1.0.0/9GAG_v1.0.0.apk)
-
-
 ## Open source projects
 
 * [Volley](https://android.googlesource.com/platform/frameworks/volley)
@@ -48,18 +27,9 @@ Gradle version 2.2.1
 
 * [Titanic](https://github.com/RomainPiel/Titanic)
 
-## More about me
-
-* [stormzhang](http://stormzhang.github.io/about.html)
 
 License
 ============
-
-    Copyright 2014 stormzhang
-
-	Licensed under the Apache License, Version 2.0 (the "License");
-	you may not use this file except in compliance with the License.
-	You may obtain a copy of the License at
 
      http://www.apache.org/licenses/LICENSE-2.0
 
